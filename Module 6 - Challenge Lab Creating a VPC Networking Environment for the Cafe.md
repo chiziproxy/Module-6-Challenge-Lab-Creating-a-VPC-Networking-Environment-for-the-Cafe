@@ -1,4 +1,4 @@
-### THINGS YOU NEED TO CREATE IN YOUR VPC
+### THINGS YOU NEED TO CREATE
 
 1. Lab VPC
 - Zone: us-east-1a
